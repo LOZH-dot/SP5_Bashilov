@@ -1,0 +1,14 @@
+D:\Users\stu-pksp120\source\repos\SP5_Bashilov\Ex1_Console\bin\Debug\Ex1_Console.exe
+D:\Users\stu-pksp120\source\repos\SP5_Bashilov\Ex1_Console\bin\Debug\Ex1_Console.pdb
+D:\Users\stu-pksp120\source\repos\SP5_Bashilov\Ex1_Console\obj\Debug\Ex1_Console.csprojAssemblyReference.cache
+D:\Users\stu-pksp120\source\repos\SP5_Bashilov\Ex1_Console\obj\Debug\Ex1_Console.csproj.CoreCompileInputs.cache
+D:\Users\stu-pksp120\source\repos\SP5_Bashilov\Ex1_Console\obj\Debug\Ex1_Console.exe
+D:\Users\stu-pksp120\source\repos\SP5_Bashilov\Ex1_Console\obj\Debug\Ex1_Console.pdb
+F:\SP5_Bashilov\Ex1_Console\bin\Debug\Ex1_Console.exe.config
+F:\SP5_Bashilov\Ex1_Console\bin\Debug\Ex1_Console.exe
+F:\SP5_Bashilov\Ex1_Console\bin\Debug\Ex1_Console.pdb
+F:\SP5_Bashilov\Ex1_Console\obj\Debug\Ex1_Console.csproj.AssemblyReference.cache
+F:\SP5_Bashilov\Ex1_Console\obj\Debug\Ex1_Console.csproj.SuggestedBindingRedirects.cache
+F:\SP5_Bashilov\Ex1_Console\obj\Debug\Ex1_Console.csproj.CoreCompileInputs.cache
+F:\SP5_Bashilov\Ex1_Console\obj\Debug\Ex1_Console.exe
+F:\SP5_Bashilov\Ex1_Console\obj\Debug\Ex1_Console.pdb
